@@ -47,7 +47,7 @@ What is the monthly order trend?
 
 ![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/a25b05914fedf9c05f75d41c71c727fb59dfeead/Image/Image%203.PNG)
 
-🖼️ Image 4 – Top Customers by Revenue
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/1ba39f9cb205bf64c77cf3a698e184d3b3eddae7/Image/Image%204.PNG)
 
 🖼️ Image 5 – Monthly Order Trend
 
