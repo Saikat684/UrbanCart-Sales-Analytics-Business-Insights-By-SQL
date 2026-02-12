@@ -41,7 +41,7 @@ What is the monthly order trend?
 
 🖼️ Analysis Visuals & Results
 
-🖼️ Image 1 [] (Image/Image%201.PNG)
+ Image 1 [] (https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/00a0ba0916f09ad45f13f6c06bc278812f21fd65/Image/Image%201.PNG)
 
 🖼️ Image 2 – Total Orders by City
 
