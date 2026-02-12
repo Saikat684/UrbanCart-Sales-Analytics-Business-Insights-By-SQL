@@ -49,7 +49,7 @@ What is the monthly order trend?
 
 ![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/1ba39f9cb205bf64c77cf3a698e184d3b3eddae7/Image/Image%204.PNG)
 
-🖼️ Image 5 – Monthly Order Trend
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/main/Image/Image%205.PNG?raw=true)
 
 🖼️ Image 6 – Payment Method Distribution
 
