@@ -40,7 +40,8 @@ Which products are at risk of stock-out?
 What is the monthly order trend?
 
 🖼️ Analysis Visuals & Results
-🖼️ Image 1 – Database Schema
+
+🖼️ Image 1 [– Database Schema](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/4ca4eec8f860296275b6d800ed20e3430f1300f9/Image/Image%201.PNG)
 
 🖼️ Image 2 – Total Orders by City
 
