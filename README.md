@@ -40,11 +40,11 @@ Which products are at risk of stock-out?
 What is the monthly order trend?
 
 🖼️ Analysis Visuals & Results
-1.
-  ![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/00a0ba0916f09ad45f13f6c06bc278812f21fd65/Image/Image%201.PNG)
-2.
- ![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/main/Image/Image%202.PNG?raw=true)
-3.
+
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/00a0ba0916f09ad45f13f6c06bc278812f21fd65/Image/Image%201.PNG)
+
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/main/Image/Image%202.PNG?raw=true)
+
 ![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/a25b05914fedf9c05f75d41c71c727fb59dfeead/Image/Image%203.PNG)
 
 🖼️ Image 4 – Top Customers by Revenue
