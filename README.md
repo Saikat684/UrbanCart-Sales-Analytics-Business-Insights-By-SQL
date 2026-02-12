@@ -51,49 +51,37 @@ What is the monthly order trend?
 
 ![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/main/Image/Image%205.PNG?raw=true)
 
-🖼️ Image 6 – Payment Method Distribution
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/f54b55819f4627accf8246425dd41e411b571f0d/Image/Image%206.PNG)
 
-🖼️ Image 7 – Product Sales Volume
+![Image alt]()
 
-🖼️ Image 8 – Average Order Value (AOV)
+![Image alt]
 
-🖼️ Image 9 – Repeat Customers Percentage
+![Image alt]
 
-🖼️ Image 10 – Order Status Analysis
+![Image alt]
 
-🖼️ Image 11 – High Return Products
+![Image alt]
 
-🖼️ Image 12 – Customer Lifetime Value
+![Image alt]
 
-🖼️ Image 13 – City-wise Payment Preference
+![Image alt]
 
-🖼️ Image 14 – Revenue Contribution by Product
+![Image alt]
 
-🖼️ Image 15 & 16 – Product Bundling Patterns
+![Image alt]
 
+![Image alt]
 
+![Image alt]
 
+![Image alt]
 
-🖼️ Image 17 – Inventory Risk Products
+![Image alt]
 
-🖼️ Image 18 – Low Performing Products
+![Image alt]
 
-🖼️ Image 19 & 20 – Customer Segmentation
-
-
-
-
-🖼️ Image 21 & 22 – High Revenue Orders
-
-
-
-
-🖼️ Image 23 & 24 – Cross-selling Opportunities
-
-
-
-
-🖼️ Image 25 – Final Business Dashboard
+![Image alt]
 
 Key Insights
 
