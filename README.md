@@ -55,33 +55,33 @@ What is the monthly order trend?
 
 ![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/39252fcc3369e9085e11c94d5ef696b8940a1204/Image/Image%207.PNG)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/6e71c073b024233fcdfc163c651eff75a8a2b90f/Image/Image%208.PNG)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/6e71c073b024233fcdfc163c651eff75a8a2b90f/Image/Image%209.PNG)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/6e71c073b024233fcdfc163c651eff75a8a2b90f/Image/Image%2010.PNG)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/6e71c073b024233fcdfc163c651eff75a8a2b90f/Image/Image%2011.PNG)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/6e71c073b024233fcdfc163c651eff75a8a2b90f/Image/Image%2012.PNG)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/main/Image/Image%2013.PNG?raw=true)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/main/Image/Image%2014.PNG?raw=true)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/main/Image/Image%2015%20&%2016.PNG?raw=true)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/6e71c073b024233fcdfc163c651eff75a8a2b90f/Image/Image%2017.PNG)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/6e71c073b024233fcdfc163c651eff75a8a2b90f/Image/Image%2018.PNG)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/6e71c073b024233fcdfc163c651eff75a8a2b90f/Image/Image%2019%20%26%2020.PNG)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/6e71c073b024233fcdfc163c651eff75a8a2b90f/Image/Image%2021%20%26%2022.PNG)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/6e71c073b024233fcdfc163c651eff75a8a2b90f/Image/Image%2023%20%26%2024.PNG)
 
-![Image alt]
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/main/Image/Image%2025.PNG?raw=true)
 
 Key Insights
 
