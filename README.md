@@ -53,7 +53,7 @@ What is the monthly order trend?
 
 ![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/f54b55819f4627accf8246425dd41e411b571f0d/Image/Image%206.PNG)
 
-![Image alt]()
+![Image alt](https://github.com/Saikat684/UrbanCart-Sales-Analytics-Business-Insights-By-SQL/blob/39252fcc3369e9085e11c94d5ef696b8940a1204/Image/Image%207.PNG)
 
 ![Image alt]
 
